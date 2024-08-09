@@ -39,8 +39,7 @@ remove this section if no screenshots
 ## Information
 this is just a placeholder, fill this with ACTUAL information
  - Windows/Linux/macOS
-<!-- do `python --version` to check -->
- - Python v3.14.2
+ - Python v3.14.2 <!-- do `python --version` to check -->
  - [ ] Before filing this issue, I installed the required package (exrex) using `pip install exrex`
 
 ## Additional context
