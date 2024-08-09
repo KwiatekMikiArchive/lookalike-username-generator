@@ -34,8 +34,7 @@ The user got this error:
 Exception: change me!
 ```
 ## Screenshots
-<!-- remove this section if no screenshots -->
-
+remove this section if no screenshots
 
 ## Information
 this is just a placeholder, fill this with ACTUAL information
